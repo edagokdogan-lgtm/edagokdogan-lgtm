@@ -1,14 +1,22 @@
-## Hi there 👋 I am Eda. I have a big passion in data science.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I%20am%20Eda!&fontSize=50)
 
-## I am curious and always have willingness to learn something new.
+I am a Data Scientist and Economist with a passion for uncovering insights through quantitative analysis and machine learning. Educated at the University of Washington and UCLA, I am naturally curious and always eager to learn something new.
 
-## I have done several projects in R and Python such as Crime Trend Analysis, COVID-19 ICU cases related with underlying conditions, and analysis in Python.  
+### 🔭 What I'm currently working on
+* Evaluating complex LLM outputs for GenAI projects.
+* Enhancing my data visualization and querying skills in **SQL** and **Tableau** through COOP Careers.
 
-## I’m currently working on AI projects evaluating complex LLM outputs. I have skills in big data management, Python, R and quantitative analysis. 
+### 🌱 Experience & Projects
+* **Data & Growth Analysis:** Previously worked as a Growth Analyst intern, performing root cause analysis on over 10,000 transactions and building interactive KPI dashboards.
+* **Applied Data Science:** Completed several impactful projects, including Crime Trend Analysis and studies on COVID-19 ICU cases related to underlying conditions.
 
-## I’m currently enhancing my knowledge in SQL, Tableau through COOP Careers. 
+### 🛠️ Tech Stack & Skills
+* **Languages & Libraries:** Python (Scikit-learn), R (R-Shiny), SQL
+* **Data & Engineering Tools:** Snowflake, Spark, Hadoop, Tableau
+* **Specialties:** Machine Learning, GenAI, Big Data Management, Quantitative Analysis
 
-## I’m looking to working for data science roles. 
+### 📫 Let's Connect
+* **Email:** edagokdogan@gmail.com
 
-## How to reach me: edagokdogan@gmail.com
 
+*(Currently seeking new opportunities in data science roles!)*
